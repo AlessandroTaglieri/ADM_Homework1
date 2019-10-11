@@ -1,5 +1,5 @@
-# AMD_Homework1
-AMD_Homework1: Alessandro Taglieri - 1890945
+# ADM_Homework1
+ADM_Homework1: Alessandro Taglieri - 1890945
 
 This repository contains:
 
