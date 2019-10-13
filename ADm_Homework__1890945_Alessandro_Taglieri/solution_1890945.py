@@ -1144,7 +1144,6 @@ for i in range(n):
 
 # Exercise 66 - Regex - HTML Parser - Part 1
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 
 from html.parser import HTMLParser
 
@@ -1806,12 +1805,12 @@ import sys
 # Complete the insertionSort2 function below.
 def insertionSort2(n, arr):
     for i in range(n):
-        j = i;
+        j = i
         while (j > 0 and arr[j] < arr[j-1]):
-            x = arr[j];
-            arr[j] = arr[j-1];
-            arr[j-1] = x;
-            j -= 1;
+            x = arr[j]
+            arr[j] = arr[j-1]
+            arr[j-1] = x
+            j -= 1
         if (i != 0): 
             print(*arr, sep=" ")
             
